@@ -1,8 +1,9 @@
-# React + Vite
+# Challenge Florin Pop générateur de repas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet fait partie des challenges Florin Pop, l'objectif étant de chosiri sa technologie (pour ma part React et du CSS pour le style),
+Et d'essayer de reproduire le projet en 24h.
 
-Currently, two official plugins are available:
+L'interet principal de ce projet était de gérer l'état et de gérer le rendu notamment différencier le premier rendu et les suivants quand une recette est déjà
+affichée.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pour le style c'était tres interessant de gérer le positionnement des différents éléments et pour ce faire, j'ai utilisé les flexbox.

@@ -13,16 +13,13 @@ body {
   align-items: center;
 }
 
-
-
 .header-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin: 1rem 0;
-  text-align: center;;
-
+  text-align: center;
 }
 
 .header-container button {
@@ -96,7 +93,7 @@ margin: 0.7rem 0;
 
 iframe {
   width: 90%;
-  height: 500px; /* Utilisez "auto" pour conserver le ratio d'origine */
+  height: 500px; 
 }
 
 @media screen and (max-width: 768px) {
@@ -113,7 +110,7 @@ body{
 
   iframe {
     width: 90%;
-    height: 200px; /* Utilisez "auto" pour conserver le ratio d'origine */
+    height: 200px; 
   }
   
 }
